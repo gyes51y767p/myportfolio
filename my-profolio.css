@@ -23,7 +23,7 @@ a{
   box-sizing:border-box;
   background-color: #edf1fd;
   position: relative;
-  background-image: url("background.jpg");
+  background-image: url("background2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top right ;
@@ -81,7 +81,7 @@ nav{
 }
 .name p:nth-child(1),
 .name .details{
-  color: #6c707c;
+  color: #353641;
   font-size: 16px;
 }
 .name h1{
